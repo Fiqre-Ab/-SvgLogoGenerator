@@ -67,4 +67,4 @@ This will execute tests and provide feedback on the project's functionality.
 ## Questions
 If you have any questions or need further assistance, please feel free to reach out to me:
 
-GitHub: [@Fiqre-Ab](https://github.com/Fiqre-Ab/SvgLogoGenerator/tree/main)
+GitHub:GitHub: [@Fiqre-Ab](https://github.com/Fiqre-Ab/SvgLogoGenerator)
