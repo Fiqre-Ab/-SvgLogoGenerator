@@ -1,1 +1,1 @@
-# -SvgLogoGenerator
+# SvgLogoGenerator
