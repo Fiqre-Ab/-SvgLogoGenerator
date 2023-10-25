@@ -27,14 +27,20 @@ To install the Logo Generator, follow these steps:
 2. Navigate to the project's root directory in the command line.
 3. Run the following command:
 
+
 npm install
+
 
 This will install the required dependencies.
 
 ## Usage
+
 To use the Logo Generator, follow these steps:
+
 1. Navigate to the project's root directory in the command line.
 2. Run the following command to start the application:
+
+
 
 npm start
 
@@ -42,27 +48,34 @@ You will be prompted to provide information about your logo, including text, tex
 
 The application will generate an SVG logo based on your input and save it as logo.svg in the project's examples folder.
 
-You can open the generated logo.svg file in a web browser to view the logo.
-
 ## License
 
 This project is licensed under the MIT License.
+
+## Contributing
+
 We welcome contributions from the open-source community. If you have suggestions, bug reports, or want to contribute to the development of this project, please follow these guidelines:
 
-1.Fork the project on GitHub.
-2.Create a new branch for your feature or bug fix.
-3.Make your changes and commit them.
-4.Push your changes to your fork.
-5.Submit a pull request.
+1. Fork the project on GitHub.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request.
 
 ## Tests
+
 To run tests for this project, follow these steps:
 
-1.Ensure that the project dependencies are installed (see Installation section).
-2.In the command line, run the following command:
+1. Ensure that the project dependencies are installed (see Installation section).
+2. In the command line, run the following command:
+
+
 npm test
+
 This will execute tests and provide feedback on the project's functionality.
+
 ## Questions
+
 If you have any questions or need further assistance, please feel free to reach out to me:
 
-GitHub:GitHub: [@Fiqre-Ab](https://github.com/Fiqre-Ab/SvgLogoGenerator)
+GitHub: [@Fiqre-Ab](https://github.com/Fiqre-Ab/SvgLogoGenerator)
