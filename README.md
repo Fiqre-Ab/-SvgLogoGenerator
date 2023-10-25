@@ -8,7 +8,7 @@ The Logo Generator is a command-line application that allows users to create cus
 
 ## Video Demo
 
-[![Video](./Video/Screenshot%202023-10-20%20004258.png)](https://drive.google.com/uc?id=1cOE9ub9B_bRJOi5v8y4sDTYWtX4Ax7s3)
+[![Video](./Video/Screenshot%202023-10-20%20004258.png)](https://drive.google.com/file/d/1ivPZxYox432YKG-cFaZRXmFE--umeTn6/view?usp=sharing)
 
 ## Table of Contents
 
