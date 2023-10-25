@@ -1,4 +1,4 @@
-# Logo Generator
+# SVG Logo Generator
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -27,7 +27,6 @@ To install the Logo Generator, follow these steps:
 2. Navigate to the project's root directory in the command line.
 3. Run the following command:
 
-```bash
 npm install
 
 This will install the required dependencies.
@@ -37,7 +36,6 @@ To use the Logo Generator, follow these steps:
 1. Navigate to the project's root directory in the command line.
 2. Run the following command to start the application:
 
-```bash
 npm start
 
 You will be prompted to provide information about your logo, including text, text color, shape, and shape color.
